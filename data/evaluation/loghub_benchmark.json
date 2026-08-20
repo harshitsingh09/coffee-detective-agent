@@ -14,7 +14,7 @@
   "average_line_length": 142.924,
   "elapsed_ms": 5.117999986396171,
   "lines_per_second": 390777.648557263,
-  "scope_note": "External LogHub data is benchmark-only and is never queried by the synthetic distributor investigation tools.",
+  "scope_note": "External LogHub data is benchmark-only and is never queried by the synthetic coffee-machine investigation tools.",
   "generated_at": "2026-08-19T03:29:46.356784+00:00",
   "source_url": "https://raw.githubusercontent.com/logpai/loghub/master/HDFS/HDFS_2k.log"
 }
