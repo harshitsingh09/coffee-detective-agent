@@ -1,0 +1,7 @@
+numpy==2.4.6
+google-genai==2.18.1
+groq==1.6.0
+openai==2.54.0
+pydantic==2.13.4
+python-dotenv==1.2.3
+streamlit==1.61.1

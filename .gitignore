@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.cache/
+.env
+.streamlit/secrets.toml
+.DS_Store
+data/streamlit.*.log
+
+# Private/archived planning notes that are not part of the public coffee demo.
+Knowledge Base/AI Incident Assistant.md
+Knowledge Base/Prompt.txt
+
+# Deterministic generated artifacts; recreate them with seed_data.py.
+data/support.db
+data/support.db.tmp
+data/app_logs.txt
+data/incidents.csv
+
+# Optional external benchmark input; keep it separate and reproducible by script.
+data/external/loghub/*.log
